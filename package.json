@@ -1,10 +1,10 @@
 {
-  "name": "count-similer-data-25",
+  "name": "count-similar-data",
   "version": "1.0.0",
   "description": "This node package is used to count the similer data from a given array",
   "main": "index.js",
   "scripts": {
-    "test": "CountSimilerData"
+    "test": "CountSimilarData"
   },
   "author": "senapati484",
   "license": "ISC"
